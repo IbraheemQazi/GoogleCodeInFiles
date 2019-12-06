@@ -1,0 +1,5 @@
+User-agent: for example 'GoogleBot'
+Disallow: https://www.forexample.dummypage.com
+
+User-agent: for example BingBot
+Allow: https://www.mywebpage.com
